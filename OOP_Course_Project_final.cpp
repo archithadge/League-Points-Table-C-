@@ -2,7 +2,7 @@
 *********************************************************************************************************************
 ***********************************League Points Table******************************************************* */
 
-// Created by Archit,Abhishek,Aditya,Harsh
+// Created by Archit
 #include<iostream>
 #include<stdlib.h>
 #include<cstring>
